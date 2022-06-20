@@ -16,7 +16,7 @@ Figure 2. Mean body size with 95% confidence intervals of mature males at four m
 ![image](https://user-images.githubusercontent.com/95881308/174489428-a63b8603-41ce-46ea-9fa7-a39e23147b0e.png)
 
 ## C. Implications:
-* You can see how small the sample sizes are just bases on how wide the confidence intervals are for some sites and seasons.
+* You can see how small the sample sizes are just based on how wide the confidence intervals are for some sites and seasons.
 * Bowie has the largest sample sizes and therefore highest confidence in estimates for mean antler size and body size.
 
 ### b. Body Size:
