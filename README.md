@@ -25,5 +25,5 @@ Figure 2. Mean body size with 95% confidence intervals of mature males at four m
 * Based on data from 2019 and 2021, it might be that mature males at Swift are a bit larger than the other sites.
 
 ### c. Antler Size:
-* Bowie appears to have slightly larger antler size of mature males compared to Maxey.  However, there confidence intervals overlap so the comparison is with low confidence.
+* Bowie appears to have slightly larger antler size of mature males compared to Maxey.  However, their confidence intervals overlap so the comparison is with low confidence.
 * Overall, antler size of mature males is similar among the four sites. I would be curious to see what these trends looked like with much more data.
