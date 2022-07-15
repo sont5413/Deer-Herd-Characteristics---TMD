@@ -7,11 +7,11 @@
 * Determine if antler and body size of mature males changes over time and differs among training sites.
 * Determine how large the sample sizes are for each site and year.
 
-Figure 1. Mean antler size with 95% confidence intervals of mature males at four military bases in Texas.
+#### Figure 1. Mean antler size with 95% confidence intervals of mature males at four military bases in Texas.
 
 ![image](https://user-images.githubusercontent.com/95881308/174489405-4d3a9d69-c965-4c0b-9aae-a2ef57d13605.png)
 
-Figure 2. Mean body size with 95% confidence intervals of mature males at four military bases in Texas.
+#### Figure 2. Mean body size with 95% confidence intervals of mature males at four military bases in Texas.
 
 ![image](https://user-images.githubusercontent.com/95881308/174489428-a63b8603-41ce-46ea-9fa7-a39e23147b0e.png)
 
