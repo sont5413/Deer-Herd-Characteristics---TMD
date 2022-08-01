@@ -1,4 +1,4 @@
-# I assessed mean antler and body size of mature (>= 4.5 years) male white-tailed deer at four military bases in Texas
+## I assessed mean antler and body size of mature (>= 4.5 years) male white-tailed deer at four military bases in Texas
 
 ## A. Data
 * This is a patchy dataset of white-tailed deer harvest data dating back to 2008. The metric used for antler size is total mean beam length.  Dressed body mass is the metric for body size.
